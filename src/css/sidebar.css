@@ -1,0 +1,24 @@
+/*
+ * Sidebar
+ */
+.sidebar {
+  position: fixed;
+  z-index: 100;
+  /* Behind the navbar */
+  height: 100%;
+  font-family: Roboto, serif;
+  border: 1px solid #EEEEEE;
+  background: #FFFFFF !important; }
+
+.sidebar .nav-link {
+  color: #212121;
+  font-family: Roboto, serif;
+  letter-spacing: 0.3px;
+  text-shadow: 0 0 0 currentColor;
+  padding-right: 0 !important; }
+
+.sidebar li:hover {
+  background-color: #EEEEEE; }
+
+.sidebar .nav-item {
+  border-bottom: 1px solid #EEEEEE !important; }

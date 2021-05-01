@@ -1,0 +1,20 @@
+// Variable Overrides
+
+$body-bg : #F7F7F7;
+$theme-colors: (
+  "primary": #3981E5
+);
+
+.jumbotron {
+  background-color: #ffffff !important;
+  border-top: 3px solid rgb(219,219,219);
+}
+// Bootstrap Sass Files
+@import "node_modules/bootstrap/scss/bootstrap";
+
+//Fonts
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300ita‌​lic,400italic,500,500italic,700,700italic,900italic,900);
+
+@import "header";
+@import "sidebar";
+@import "main";

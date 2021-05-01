@@ -1,0 +1,115 @@
+main {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 22px;
+  /* identical to box height, or 157% */
+
+  letter-spacing: 0.2625px;
+
+  color: #212121;
+}
+
+main .top .about-text {
+  background: #F9F9F9;
+  box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.16);
+}
+
+main .top .top-section {
+  background: #FFFFFF;
+  box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.16);
+}
+
+main .top .top-section .group11 .title {
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.profile-pic {
+  font-size: 14px;
+  color: #212121;
+}
+
+main .top-section .groub2 {
+  color: #737373
+}
+
+main .top-section .group11 .views {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  text-transform: uppercase;
+
+  color: #737373;
+}
+
+main .top-section .group21 img {
+  width: 100%;
+}
+
+main .top-section .group22 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  /* or 150% */
+
+  letter-spacing: 0.3px;
+
+  color: #252525;
+}
+
+main .top-section .group22 .writer {
+  font-family: Roboto, serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #737373;
+}
+
+main .top-section .group22 .dates {
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 12px;
+  /* identical to box height */
+
+  letter-spacing: 0.833333px;
+
+  color: #B2B2B2;
+}
+
+
+main .appBundle .app-block-1 .app-block img {
+  width: 100%;
+}
+
+main .appBundle {
+  background-color: #FFFFFF;
+}
+
+main .app-block {
+  background-color: #F7F7F7;
+}
+
+main .appBlock {
+  box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.16);
+}
+
+main .appBlock .app-name {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: calc(10px + 1vw)  ;
+  letter-spacing: -0.3px;
+
+  color: #212121;
+}
